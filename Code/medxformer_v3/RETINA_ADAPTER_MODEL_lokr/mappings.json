@@ -1,0 +1,14 @@
+{
+    "label2id": {
+        "retina_choroidal_neovascularization": 0,
+        "retina_diabetic_macular_edema": 1,
+        "retina_drusen": 2,
+        "retina_normal": 3
+    },
+    "id2label": {
+        "0": "retina_choroidal_neovascularization",
+        "1": "retina_diabetic_macular_edema",
+        "2": "retina_drusen",
+        "3": "retina_normal"
+    }
+}

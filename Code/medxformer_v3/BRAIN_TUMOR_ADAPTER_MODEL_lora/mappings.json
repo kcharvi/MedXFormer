@@ -1,0 +1,14 @@
+{
+    "label2id": {
+        "brain_glioma": 0,
+        "brain_meningioma": 1,
+        "brain_no_tumor": 2,
+        "brain_pituitary": 3
+    },
+    "id2label": {
+        "0": "brain_glioma",
+        "1": "brain_meningioma",
+        "2": "brain_no_tumor",
+        "3": "brain_pituitary"
+    }
+}

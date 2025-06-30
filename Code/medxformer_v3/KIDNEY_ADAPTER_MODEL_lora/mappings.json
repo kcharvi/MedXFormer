@@ -1,0 +1,14 @@
+{
+    "label2id": {
+        "kidney_cyst": 0,
+        "kidney_normal": 1,
+        "kidney_stone": 2,
+        "kidney_tumor": 3
+    },
+    "id2label": {
+        "0": "kidney_cyst",
+        "1": "kidney_normal",
+        "2": "kidney_stone",
+        "3": "kidney_tumor"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "label2id": {
+        "skin_actinic_keratosis": 0,
+        "skin_basal_cell_carcinoma": 1,
+        "skin_dermatofibroma": 2,
+        "skin_melanoma": 3,
+        "skin_nevus": 4,
+        "skin_pigmented_benign_keratosis": 5,
+        "skin_seborrheic_keratosis": 6,
+        "skin_squamous_cell_carcinoma": 7,
+        "skin_vascular_lesion": 8
+    },
+    "id2label": {
+        "0": "skin_actinic_keratosis",
+        "1": "skin_basal_cell_carcinoma",
+        "2": "skin_dermatofibroma",
+        "3": "skin_melanoma",
+        "4": "skin_nevus",
+        "5": "skin_pigmented_benign_keratosis",
+        "6": "skin_seborrheic_keratosis",
+        "7": "skin_squamous_cell_carcinoma",
+        "8": "skin_vascular_lesion"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "label2id": {
+        "diabetic_mild_retinopathy": 0,
+        "diabetic_moderate_retinopathy": 1,
+        "diabetic_no_retinopathy": 2,
+        "diabetic_proliferative_retinopathy": 3,
+        "diabetic_severe_retinopathy": 4
+    },
+    "id2label": {
+        "0": "diabetic_mild_retinopathy",
+        "1": "diabetic_moderate_retinopathy",
+        "2": "diabetic_no_retinopathy",
+        "3": "diabetic_proliferative_retinopathy",
+        "4": "diabetic_severe_retinopathy"
+    }
+}
